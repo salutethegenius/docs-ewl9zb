@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-v4twzs.swanbarandgrill.co.uk/sitemap.xml
